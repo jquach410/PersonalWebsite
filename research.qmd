@@ -1,0 +1,30 @@
+---
+title: "Academic Research"
+bibliography: references.bib
+---
+
+#### Publications
+
+Effect of a physical activity intervention and frailty on frailty trajectory and major mobility disability. [@quach2022a]
+
+Comparing Five Criteria for Evaluating Glaucomatous Visual Fields. [@stubeda2022]
+
+Serial Changes in Lamina Cribrosa Depth and Neuroretinal Parameters in Glaucoma: Impact of Choroidal Thickness. [@vianna2017]
+
+Acoustic Transmission Characteristics of a Eustachian Tube Volitionally Opened in Two Living Subjects. [@amoako-tuffour2016]
+
+#### Awards
+
+[Canada Graduate Scholarships - Doctoral](https://www.nserc-crsng.gc.ca/students-etudiants/pg-cs/cgsd-bescd_eng.asp)
+
+[Killam Predoctoral Scholar - Doctoral](https://killamlaureates.ca/)
+
+[Nova Scotia Graduate Scholarship - Doctoral](https://www.dal.ca/faculty/gradstudies/finance-your-studies/scholarships-bursaries/nsgs-doctoral.html)
+
+[Canada Graduate Scholarship - Michael Smith Foreign Study Supplements](https://www.nserc-crsng.gc.ca/Students-Etudiants/PG-CS/CGSForeignStudy-BESCEtudeEtranger_eng.asp)
+
+[Canada Graduate Scholarships - Master's](https://www.nserc-crsng.gc.ca/students-etudiants/pg-cs/cgsm-bescm_eng.asp)
+
+[Nova Scotia Graduate Scholarship - Master's](https://www.dal.ca/academics/programs/graduate/environmental-studies/funding-support/department-support/NSScholarship.html)
+
+[Heart & Stroke BrightRed Student Research Awards](https://heartstrokeprod.azureedge.net/-/media/research/docs/2022-2023/brightred-student-research-award-guidelines.ashx?la=en&rev=2e21675606ad4053badec37e268c4e00)

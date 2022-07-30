@@ -1,0 +1,18 @@
+---
+title: "Jack Quach"
+about:
+  template: jolla
+  image: images/jack_sketch.jpg
+  links:
+    - icon: twitter
+      text: twitter
+      href: https://twitter.com/jackquach
+    - icon: mailbox2
+      text: email
+      href: mailto:jq@dal.ca
+    - icon: github
+      text: Github
+      href: https://github.com/jquach410
+---
+
+Hi, nice to meet you! I'm Jack Quach, a PhD student at [Dalhousie University](https://www.dal.ca/) and [Geriatric Medicine Research](https://www.dal.ca/sites/gmr.html). My doctoral research focuses on the applications of machine learning for aging, frailty, and health.
