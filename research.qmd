@@ -1,9 +1,9 @@
 ---
-title: "Academic Research"
+title: "Academia"
 bibliography: references.bib
 ---
 
-#### Publications
+#### Journal Publications
 
 Effect of a physical activity intervention and frailty on frailty trajectory and major mobility disability. [@quach2022a]
 
@@ -12,6 +12,16 @@ Comparing Five Criteria for Evaluating Glaucomatous Visual Fields. [@stubeda2022
 Serial Changes in Lamina Cribrosa Depth and Neuroretinal Parameters in Glaucoma: Impact of Choroidal Thickness. [@vianna2017]
 
 Acoustic Transmission Characteristics of a Eustachian Tube Volitionally Opened in Two Living Subjects. [@amoako-tuffour2016]
+
+#### Selected Conference Publications
+
+Influence of Frailty on the Structure-Function Relationship in Glaucoma. [@quach2021]
+
+Characteristics of the Crowd-Sourced Glaucoma Study patient database. [@vianna2020]
+
+Asymmetry of Peripapillary Retinal Blood Vessel Position and Thickness in Healthy Right and Left Eyes. [@quach2020]
+
+Comparing 5 Criteria for Identifying Glaucomatous Visual Field Damage. [@stubeda2020]
 
 #### Awards
 

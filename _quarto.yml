@@ -9,6 +9,7 @@ website:
       - href: index.qmd
         text: About Me
       - research.qmd
+      - apps.qmd
 
 format:
   html:

@@ -13,6 +13,9 @@ about:
     - icon: github
       text: Github
       href: https://github.com/jquach410
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/jackquach410
 ---
 
 Hi, nice to meet you! I'm Jack Quach, a PhD student at [Dalhousie University](https://www.dal.ca/) and [Geriatric Medicine Research](https://www.dal.ca/sites/gmr.html). My doctoral research focuses on the applications of machine learning for aging, frailty, and health.

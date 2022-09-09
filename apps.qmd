@@ -1,0 +1,11 @@
+---
+title: "Tools"
+---
+
+Some [R-Shiny](https://shiny.rstudio.com/) tools that I've developed as part of my research work with [Geriatric Medicine Research](https://www.dal.ca/sites/gmr.html).
+
+[Frailty Index Calculator](https://jquach.shinyapps.io/clsa_fi52/)
+
+[Clinical Frailty Scale Classification Tree](https://jquach.shinyapps.io/CFS_Classification_Short/) - Short Version
+
+And more coming soon!

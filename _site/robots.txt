@@ -1,1 +1,1 @@
-Sitemap: https://334b50c9-6cee-49cc-913c-443a9d780221.netlify.app/sitemap.xml
+Sitemap: https://quartopub.org/sites/jackquach/about/sitemap.xml
